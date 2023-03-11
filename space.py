@@ -21,3 +21,4 @@ elif planet == 6:
   weight = weight * 1.19
 
 print("Your weight:", weight)
+ 
